@@ -193,3 +193,6 @@ class Employee extends Model
 Note: Replace {id} in the URLs with the actual ID of the employee you want to retrieve, update, or delete.
 
 You can use these URLs in Postman to test the respective CRUD operations on your Laravel REST API for employees.
+
+
+### Run `php artisan serve`
